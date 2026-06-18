@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Modules/">
+    <Project Path="Modules/Articles/Articles.csproj" />
+    <Project Path="Modules/Subscriptions/Subscriptions.csproj" />
+  </Folder>
+</Solution>
